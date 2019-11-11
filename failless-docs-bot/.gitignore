@@ -1,0 +1,11 @@
+venv
+__pycache__
+*.swo
+*.swp
+*.out
+.ide
+files
+.env
+*.jpeg
+*.jpg
+*.png
